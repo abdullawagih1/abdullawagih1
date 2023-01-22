@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Computer Vision and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdullawagih1](https://github.com/abdullawagih1)
+- 👨‍💻 All of my projects are available at [https://www.kaggle.com/abdallahwagih](https://www.kaggle.com/abdallahwagih)
 
 - 📫 How to reach me **abdullawagih1@gmail.com**
 
