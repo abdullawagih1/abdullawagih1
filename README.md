@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">Software Engineer - AI Developer</h3>
 
-- 🌱 I’m currently learning **Computer Vision and Deep Learning**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/abdallahwagih](https://www.kaggle.com/abdallahwagih)
 
